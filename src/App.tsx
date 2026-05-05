@@ -282,7 +282,7 @@ function Hero() {
           <div className="absolute inset-0 -rotate-3 rounded-3xl bg-gradient-to-br from-orange-500/25 to-rose-500/15 blur-3xl" />
           <div className="relative overflow-hidden rounded-3xl border border-white/10 shadow-2xl">
             <img
-              src="/images/hero-repair.jpg"
+              src="images/hero-repair.jpg"
               alt="Phone repair at Ndovukuu"
               className="aspect-[4/3] w-full object-cover"
             />

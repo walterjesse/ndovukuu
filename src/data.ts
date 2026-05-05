@@ -47,7 +47,7 @@ export const defaultProducts: Product[] = [
     emoji: "📱",
     gradient: "from-slate-700 to-slate-900",
     description: "The iPhone 15 Pro Max features a stunning 6.7-inch Super Retina XDR display, the powerful A17 Pro chip, a pro camera system with 5x optical zoom, and titanium design. All-day battery life, USB-C, and Action button.",
-    imageUrl: "/images/iphone15promax.jpg",
+    imageUrl: "images/iphone15promax.jpg",
   },
   {
     id: "p2",
@@ -63,7 +63,7 @@ export const defaultProducts: Product[] = [
     emoji: "📱",
     gradient: "from-zinc-800 to-black",
     description: "Samsung Galaxy S24 Ultra with Galaxy AI, 200MP camera, built-in S Pen, Snapdragon 8 Gen 3 processor, 6.8-inch QHD+ Dynamic AMOLED display, and titanium frame. The ultimate productivity powerhouse.",
-    imageUrl: "/images/galaxy-s24-ultra.jpg",
+    imageUrl: "images/galaxy-s24-ultra.jpg",
   },
   {
     id: "p3",
@@ -79,7 +79,7 @@ export const defaultProducts: Product[] = [
     emoji: "📱",
     gradient: "from-indigo-700 to-purple-900",
     description: "Google Pixel 8 Pro with Tensor G3 chip, 50MP main camera with Magic Eraser and Best Take, 6.7-inch LTPO OLED display, 7 years of OS updates, and the purest Android experience.",
-    imageUrl: "/images/pixel8pro.jpg",
+    imageUrl: "images/pixel8pro.jpg",
   },
   {
     id: "w1",
@@ -94,7 +94,7 @@ export const defaultProducts: Product[] = [
     emoji: "⌚",
     gradient: "from-orange-500 to-rose-600",
     description: "The ultimate sports and adventure watch is back. Featuring the S9 SiP, a magical new way to use your watch without touching the screen, a mind-blowing bright display, and carbon-neutral case and strap combinations.",
-    imageUrl: "/images/apple-watch.jpg",
+    imageUrl: "images/apple-watch.jpg",
   },
   {
     id: "a1",
@@ -108,7 +108,7 @@ export const defaultProducts: Product[] = [
     emoji: "🎧",
     gradient: "from-slate-100 to-zinc-300",
     description: "AirPods Pro 2 feature up to two times more Active Noise Cancellation, Adaptive Audio, Transparancy mode, and Personalized Spatial Audio with dynamic head tracking for truly immersive sound.",
-    imageUrl: "/images/iphone12.jpg",
+    imageUrl: "images/iphone12.jpg",
   },
   {
     id: "ac1",
@@ -123,7 +123,7 @@ export const defaultProducts: Product[] = [
     emoji: "🔌",
     gradient: "from-zinc-700 to-zinc-900",
     description: "Power up to 3 devices simultaneously with the Anker Prime 67W wall charger. Equipped with GaN technology, ActiveShield 2.0 temperature monitoring, and ultra-compact folding design. Perfect for your iPhone, Galaxy, and MacBook.",
-    imageUrl: "/images/galaxy-a55.jpg",
+    imageUrl: "images/galaxy-a55.jpg",
   },
   {
     id: "p4",
@@ -140,7 +140,7 @@ export const defaultProducts: Product[] = [
     emoji: "📱",
     gradient: "from-blue-900 to-slate-900",
     description: "Certified refurbished iPhone 13 with A15 Bionic chip, dual-camera system, 6.1-inch Super Retina XDR display. Fully tested, reset, and comes with 6-month Ndovukuu warranty.",
-    imageUrl: "/images/iphone13.jpg",
+    imageUrl: "images/iphone13.jpg",
   },
   {
     id: "t1",
@@ -156,7 +156,7 @@ export const defaultProducts: Product[] = [
     emoji: "平板",
     gradient: "from-indigo-900 to-purple-900",
     description: "The redesigned 11-inch iPad Air is supercharged by the incredibly fast Apple M2 chip. It features a stunning Liquid Retina display, a new landscape camera perfect for FaceTime or video calls, and superfast Wi-Fi 6E.",
-    imageUrl: "/images/iphone12.jpg",
+    imageUrl: "images/iphone12.jpg",
   },
   {
     id: "ac2",
@@ -169,7 +169,7 @@ export const defaultProducts: Product[] = [
     emoji: "🔋",
     gradient: "from-slate-800 to-zinc-950",
     description: "Keep your devices powered for days on end with the massive 20K capacity. Charge your phone up to 5 times. High-speed PowerIQ charging technology delivers customized, optimal power delivery.",
-    imageUrl: "/images/tecno-camon30.jpg",
+    imageUrl: "images/tecno-camon30.jpg",
   },
   {
     id: "p5",
@@ -184,7 +184,7 @@ export const defaultProducts: Product[] = [
     emoji: "📱",
     gradient: "from-purple-600 to-fuchsia-700",
     description: "Redmi Note 13 Pro with 200MP main camera, Snapdragon 7s Gen 2, 6.67-inch 120Hz AMOLED display, 5100mAh battery with 67W turbo charging. Flagship features at an unbeatable price.",
-    imageUrl: "/images/redmi-note13.jpg",
+    imageUrl: "images/redmi-note13.jpg",
   },
   {
     id: "w2",
@@ -198,7 +198,7 @@ export const defaultProducts: Product[] = [
     emoji: "⌚",
     gradient: "from-stone-300 to-zinc-500",
     description: "Get the iconic rotatable bezel, personalized heart rate zones, advanced sleep coaching, body composition analysis, and flawless integration with Galaxy smartphones.",
-    imageUrl: "/images/galaxy-a55.jpg",
+    imageUrl: "images/galaxy-a55.jpg",
   },
   {
     id: "ac3",
@@ -211,7 +211,7 @@ export const defaultProducts: Product[] = [
     emoji: "🛡️",
     gradient: "from-emerald-600 to-teal-800",
     description: "Ndovukuu's signature ultra-durable smartphone case. Complete with built-in powerful MagSafe magnets, 10ft military-grade drop protection, raised camera protection bezel, and non-yellowing crystal clear backing.",
-    imageUrl: "/images/tecno-camon30.jpg",
+    imageUrl: "images/tecno-camon30.jpg",
   },
 ];
 
